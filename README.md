@@ -1,4 +1,6 @@
 [![Current Build Status](https://img.shields.io/github/workflow/status/programminghistorian/jekyll/build_programming_historian)](https://github.com/programminghistorian/jekyll/actions/) [![Netlify Status](https://api.netlify.com/api/v1/badges/806a84e7-ac1c-4722-b9bb-a8d519e8bf47/deploy-status)](https://app.netlify.com/sites/ph-preview/deploys)
+
+THIS IS AN UNCONNECTED FORK OF Programming Historian (http://programminghistorian.org) MADE AS PART OF THE COLLABORATIONS WORKSHOP! PLEASE DO NOT REFER TO THIS AS OFFICIAL OR FINISHED FOR NOW !!!!
 ---
 This is the main repository for the _Programming Historian_ (<http://programminghistorian.org>), where we keep the files for the live website. 
 
